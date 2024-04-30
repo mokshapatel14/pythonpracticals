@@ -1,1 +1,1 @@
-moksha
+print("Moksha")
